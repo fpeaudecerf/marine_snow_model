@@ -22,4 +22,4 @@ The files are organised as follow:
 Access this Binder by clicking the blue badge above or at the following URL:  
 https://mybinder.org/v2/gh/fpeaudecerf/marine_snow_model/HEAD  
 
-There, you can select "New" &rarr "Terminal" and execute the scripts from there. 
+There, you can select "New" -> "Terminal" and execute the scripts from there. 
