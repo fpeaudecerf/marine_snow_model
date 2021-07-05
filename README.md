@@ -1,5 +1,7 @@
 # marine_snow_model
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fpeaudecerf/marine_snow_model/HEAD)
+
 This repository contains the code associated to the theoretical model of marine particle degradation coupled to sinking speed presented in the manuscript:
 
 "Sinking enhances the degradation of organic particles by marine bacteria", 
@@ -15,4 +17,5 @@ The files are organised as follow:
 - utils.py is a small utilities file;
 
 
-- environment.yml sets the environment for Binder, so that the script can be executed in Binder without need for local Python installation. 
+- environment.yml sets the environment for Binder, so that the script can be executed in Binder without need for local Python installation.Access this Binder by clicking the blue badge above or at the following URL:
+https://mybinder.org/v2/gh/fpeaudecerf/marine_snow_model/HEAD
