@@ -19,5 +19,7 @@ The files are organised as follow:
 - environment.yml sets the environment for Binder, so that the script can be executed in Binder without need for local Python installation. 
 
 
-Access this Binder by clicking the blue badge above or at the following URL:
-https://mybinder.org/v2/gh/fpeaudecerf/marine_snow_model/HEAD
+Access this Binder by clicking the blue badge above or at the following URL:  
+https://mybinder.org/v2/gh/fpeaudecerf/marine_snow_model/HEAD  
+
+There, you can select "New" &rarr "Terminal" and execute the scripts from there. 
