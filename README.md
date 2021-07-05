@@ -1,12 +1,12 @@
 # marine_snow_model
 
 This repository contains the code associated to the theoretical model of marine particle degradation coupled to sinking speed presented in the manuscript:
+
 "Sinking enhances the degradation of organic particles by marine bacteria", 
 Uria Alcolombri , François J. Peaudecerf , Vicente Fernandez , Lars Behrendt , Kang Soo Lee, Roman Stocker
-Nature Geosciences (2021)
-accepted
-DOI: TBD
-Link to publisher: TBD
+*Nature Geosciences* (accepted 2021)  
+DOI: TBD  
+Link to publisher: TBD  
 
 The files are organised as follow:
 - dynamic_laws.py contains all the support functions for computing the particle dynamics and associated fluxes;
