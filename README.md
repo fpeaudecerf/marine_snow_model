@@ -16,6 +16,8 @@ The files are organised as follow:
 - params.py, params_Q10.py and params_T.py contain parameter values used for computations and figure generation, and are called by the figure generating scripts;
 - utils.py is a small utilities file;
 
+- environment.yml sets the environment for Binder, so that the script can be executed in Binder without need for local Python installation. 
 
-- environment.yml sets the environment for Binder, so that the script can be executed in Binder without need for local Python installation.Access this Binder by clicking the blue badge above or at the following URL:
+
+Access this Binder by clicking the blue badge above or at the following URL:
 https://mybinder.org/v2/gh/fpeaudecerf/marine_snow_model/HEAD
