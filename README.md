@@ -1,4 +1,4 @@
-# Model of microbial degradation of marine particles enhanced by sinking speed
+# Microbial degradation of marine particles enhanced by sinking speed
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fpeaudecerf/marine_snow_model/HEAD)
 
