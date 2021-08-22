@@ -1,5 +1,8 @@
 # Microbial degradation of marine particles enhanced by sinking speed
 
+
+
+[![DOI](https://zenodo.org/badge/257601966.svg)](https://zenodo.org/badge/latestdoi/257601966)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fpeaudecerf/marine_snow_model/HEAD)
 
 This repository contains the code associated with the theoretical models of marine particle degradation coupled to sinking speed presented in the manuscript:
