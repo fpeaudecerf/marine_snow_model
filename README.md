@@ -9,7 +9,7 @@ This repository contains the code associated with the theoretical models of mari
 
 "Sinking enhances the degradation of organic particles by marine bacteria", 
 Uria Alcolombri , François J. Peaudecerf , Vicente Fernandez , Lars Behrendt , Kang Soo Lee, Roman Stocker
-*Nature Geosciences* (accepted 2021)  
+*Nature Geosciences* 14:775-780 (2021)  
 DOI: 10.1038/s41561-021-00817-x  
 Link to publisher: https://www.nature.com/articles/s41561-021-00817-x  
 
